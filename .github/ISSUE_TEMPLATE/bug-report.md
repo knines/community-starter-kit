@@ -1,7 +1,0 @@
-# Heading
-
-description
-
-# Placeholder
-
-text
